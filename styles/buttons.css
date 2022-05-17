@@ -1,16 +1,12 @@
-.div1 {
-    float: left; 
-    position: relative; 
-    left: 50%;
+.div1 { 
+    text-align: center;
 }
 .div2 {
-  float: left; 
-  position: relative; 
-  left: -50%;
+  text-align: center;
 }
 
 .title-button {
-    
+    text-align: center;
     background-color: #181818;
     color: white;
     text-align: center;
@@ -22,7 +18,7 @@
     height: 60px;
     padding: 20px;
     margin: 2px;
-    display: block;
+    display: inline-block;
     margin-bottom: 25px;
     border-radius: 10px;
 
